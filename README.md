@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Arcade Game: Udacity's NanoDegree Front End Program
 ===============================
 
 ## 1. How to Run
