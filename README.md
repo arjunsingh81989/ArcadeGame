@@ -1,7 +1,7 @@
 Arcade Game Project: Udacity's NanoDegree Front End Program
 ===============================
 
-Technologies: Javascript, HTML5 Canvas
+Technologies: JavaScript, HTML5 Canvas
 
 ## 1. How to Run
 
